@@ -1,0 +1,6 @@
+langchain langchain_openai
+lanchain_community
+bs4
+openai
+python-dotenv
+

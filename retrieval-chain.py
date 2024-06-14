@@ -63,4 +63,4 @@ respone = chain.invoke({
     "input": "What is LCEL?"
 })
 
-print(respone)
+print(respone["answer"])
